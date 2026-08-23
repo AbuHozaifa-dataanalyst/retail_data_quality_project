@@ -1,0 +1,18 @@
+issue,column,records,percentage,business_impact,severity
+Missing customer_id,customer_id,603,0.5,Prevents reliable customer-level analysis and segmentation.,Medium
+Missing payment_method,payment_method,361,0.3,Reduces accuracy of payment-method reporting.,Low
+Missing transaction_date,transaction_date,150,0.12,"Can distort daily, monthly, and time-based sales analysis.",High
+Exact duplicate rows,all columns,469,0.39,"Can overstate revenue, transactions, units, and profit.",Critical
+Duplicate transaction IDs,transaction_id,680,0.56,May represent duplicate or conflicting transaction records.,Critical
+Negative quantity,quantity,300,0.25,May indicate invalid sales records or an unmodeled return.,High
+Zero quantity,quantity,200,0.17,Can create transactions with inconsistent financial values.,High
+Non-numeric unit price,unit_price,0,0.0,Prevents reliable financial calculations.,High
+Future transaction date,transaction_date,100,0.08,Can distort reporting periods and time intelligence.,High
+Orphan product ID,product_id,150,0.12,Prevents reliable product/category attribution.,High
+Orphan customer ID,customer_id,150,0.12,Prevents reliable customer attribution.,Medium
+Orphan store ID,store_id,100,0.08,Prevents reliable store performance reporting.,High
+Gross sales mismatch,gross_sales,896,0.74,Can directly overstate or understate sales.,Critical
+Net sales mismatch,net_sales,450,0.37,Can produce incorrect revenue KPIs.,Critical
+Profit mismatch,profit_amount,250,0.21,Can produce incorrect profitability reporting.,Critical
+Invalid discount,discount_amount,200,0.17,Can produce impossible or misleading net-sales values.,High
+Gross margin mismatch,gross_margin_pct,115327,95.56,Can produce incorrect profitability KPIs.,High
