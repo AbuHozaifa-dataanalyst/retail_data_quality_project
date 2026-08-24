@@ -1,0 +1,14 @@
+issue,action,records_affected,business_reason
+Exact duplicate rows,Removed duplicate copies,0,"Exact duplicate sales can overstate transactions, units, revenue, and profit."
+Conflicting duplicate transaction IDs,Quarantined for review,1358,Conflicting records cannot be safely resolved without source-system evidence.
+Invalid unit price,Quarantined for review,150,A non-positive or unresolvable selling price cannot support reliable revenue calculations.
+Zero or negative quantity,Quarantined for review,492,This fact table represents completed sales. Returns should be handled separately rather than silently interpreted as negative sales.
+Missing or invalid transaction date,Quarantined for review,149,A transaction cannot be reliably assigned to a reporting period without a valid date.
+Future transaction date,Quarantined for review,99,Future dates fall outside the defined source-data reporting period and can distort time-based KPIs.
+Missing payment method,Replaced with 'Unknown',358,The transaction remains valid for sales reporting. Unknown preserves the sale without inventing a payment method.
+Missing or orphan customer ID,Mapped to UNKNOWN,742,"The sale remains valid, but customer attribution is unavailable. UNKNOWN preserves the transaction without inventing customer information."
+Orphan product ID,Mapped to UNKNOWN,148,"The sales event may still be valid, but product attribution cannot be trusted without a matching master record."
+Orphan store ID,Mapped to UNKNOWN,99,"The sales event may still be valid, but store attribution cannot be trusted without a matching store master record."
+Orphan product ID,Mapped to UNKNOWN,148,"The sales event may still be valid, but product attribution cannot be trusted without a matching master record."
+Orphan store ID,Mapped to UNKNOWN,99,"The sales event may still be valid, but store attribution cannot be trusted without a matching store master record."
+Invalid discount,Quarantined for review,196,The intended discount cannot be reliably inferred. Capping the value would create an unsupported assumption.
