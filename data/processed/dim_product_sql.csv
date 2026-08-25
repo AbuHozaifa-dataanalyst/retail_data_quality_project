@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,brand,unit_cost,selling_price
+P0001,L'Oreal Bookshelf 001,Home & Living,Furniture,L'Oreal,2582.62,3760.65
+P0002,Adidas Women's Jeans 002,Fashion,Women,Adidas,2847.68,4512.25
+P0003,Nestle Potato Chips 003,Grocery,Snacks,Nestle,67.58,84.74
+P0004,Generic Camping Chair 004,Sports,Outdoor,Generic,1837.79,2802.52
+P0005,Samsung Soundbar 005,Electronics,Audio,Samsung,563.06,838.91
+P0006,Nike Steam Cleaner 006,Home Appliances,Cleaning,Nike,1711.75,1992.63
+P0007,Nestle Nuts 007,Grocery,Snacks,Nestle,2819.71,4378.09
+P0008,P&G Dumbbell Set 008,Sports,Fitness,P&G,604.03,706.93
+P0009,Philips Men's T-Shirt 009,Fashion,Men,Philips,2247.01,3129.77
+P0010,L'Oreal Perfume 010,Beauty,Fragrance,L'Oreal,2410.55,2853.0
+P0011,L'Oreal Air Conditioner 011,Home Appliances,Cooling,L'Oreal,612.17,705.52
+P0012,Sony Face Cream 012,Beauty,Skincare,Sony,2139.8,3221.64
+P0013,Nestle Coffee Maker 013,Home Appliances,Kitchen,Nestle,1960.21,3061.32
+P0014,P&G Women's T-Shirt 014,Fashion,Women,P&G,1006.08,1185.77
+P0015,Sony Microwave 015,Home Appliances,Kitchen,Sony,1919.92,2974.43
+P0016,Sony Smartphone 016,Electronics,Mobile,Sony,2915.7,4466.89
+P0017,Nestle Coffee Maker 017,Home Appliances,Kitchen,Nestle,2317.48,3180.06
+P0018,Nestle Women's Jeans 018,Fashion,Women,Nestle,1329.22,1649.26
+P0019,Samsung Air Conditioner 019,Home Appliances,Cooling,Samsung,1535.54,2392.99
+P0020,IKEA Air Conditioner 020,Home Appliances,Cooling,IKEA,701.82,831.4
+P0021,Nike Cereal 021,Grocery,Pantry,Nike,2790.5,4223.85
+P0022,Nike Cushion 022,Home & Living,Decor,Nike,2414.94,2979.93
+P0023,Nestle Cleanser 023,Beauty,Skincare,Nestle,2690.35,3478.9
+P0024,Samsung Smartphone 024,Electronics,Mobile,Samsung,1950.12,2243.09
+P0025,L'Oreal Body Mist 025,Beauty,Fragrance,L'Oreal,40.72,56.19
+P0026,Philips Women's Dress 026,Fashion,Women,Philips,377.2,491.09
+P0027,IKEA Hiking Backpack 027,Sports,Outdoor,IKEA,671.92,941.46
+P0028,Samsung Coffee Table 028,Home & Living,Furniture,Samsung,2915.91,4616.18
+P0029,Apple Air Cooler 029,Home Appliances,Cooling,Apple,916.62,1171.6
+P0030,IKEA Mineral Water 030,Grocery,Beverages,IKEA,2930.31,3911.87
+P0031,Samsung Air Fryer 031,Home Appliances,Kitchen,Samsung,733.89,891.83
+P0032,Nestle Conditioner 032,Beauty,Haircare,Nestle,741.32,1076.74
+P0033,P&G Cleanser 033,Beauty,Skincare,P&G,741.64,1120.92
+P0034,LG Blender 034,Home Appliances,Kitchen,LG,1907.92,2654.1
+P0035,Samsung Running Shoes 035,Sports,Sportswear,Samsung,975.92,1204.22
+P0036,LG Soundbar 036,Electronics,Audio,LG,2039.14,2360.23
+P0037,Sony Soundbar 037,Electronics,Audio,Sony,1942.61,2386.43
+P0038,P&G Premium Smartphone 038,Electronics,Mobile,P&G,1562.9,2386.5
+P0039,Generic Face Cream 039,Beauty,Skincare,Generic,358.15,560.9
+P0040,Sony Kids Jacket 040,Fashion,Kids,Sony,1986.75,3015.39
+P0041,Generic Office Chair 041,Home & Living,Furniture,Generic,740.72,882.86
+P0042,Philips Shampoo 042,Beauty,Haircare,Philips,2650.26,3272.85
+P0043,Sony Women's Jacket 043,Fashion,Women,Sony,2183.35,3392.27
+P0044,P&G Bed Sheet Set 044,Home & Living,Bedding,P&G,1933.25,2296.44
+P0045,LG Men's Jeans 045,Fashion,Men,LG,2013.58,2841.78
+P0046,L'Oreal Sports T-Shirt 046,Sports,Sportswear,L'Oreal,2921.52,3733.01
+P0047,Apple Dumbbell Set 047,Sports,Fitness,Apple,2081.85,3004.91
+P0048,LG Women's Dress 048,Fashion,Women,LG,73.86,101.35
+P0049,LG Sports Shorts 049,Sports,Sportswear,LG,1955.91,2996.75
+P0050,Samsung Energy Drink 050,Grocery,Beverages,Samsung,299.15,393.52
+P0051,Nike Pillow 051,Home & Living,Bedding,Nike,1191.43,1848.41
+P0052,Philips Business Laptop 052,Electronics,Laptop,Philips,1942.41,2818.47
+P0053,Philips Premium Smartphone 053,Electronics,Mobile,Philips,2172.91,2773.39
+P0054,Samsung Soundbar 054,Electronics,Audio,Samsung,547.79,861.79
+P0055,Philips Dumbbell Set 055,Sports,Fitness,Philips,1123.07,1299.34
+P0056,Philips Soft Drink 056,Grocery,Beverages,Philips,2891.59,4435.28
+P0057,Adidas Table Lamp 057,Home & Living,Decor,Adidas,964.43,1182.65
+P0058,Nike Kids Jeans 058,Fashion,Kids,Nike,2791.45,3298.62
+P0059,Nike Biscuits 059,Grocery,Snacks,Nike,437.45,605.1
+P0060,Nestle Laptop 060,Electronics,Laptop,Nestle,2549.04,3088.11
+P0061,Adidas Bed Sheet Set 061,Home & Living,Bedding,Adidas,903.6,1209.83
+P0062,L'Oreal Nuts 062,Grocery,Snacks,L'Oreal,2741.46,3783.5
+P0063,LG Phone Case 063,Electronics,Accessories,LG,231.4,307.43
+P0064,Generic Exercise Bike 064,Sports,Fitness,Generic,1027.23,1354.93
+P0065,Adidas Gaming Laptop 065,Electronics,Laptop,Adidas,127.11,172.81
+P0066,Nestle Pillow 066,Home & Living,Bedding,Nestle,110.89,129.39
+P0067,Nike Robot Vacuum 067,Home Appliances,Cleaning,Nike,398.64,552.12
+P0068,Generic Cushion 068,Home & Living,Decor,Generic,2896.45,3926.92
+P0069,LG Steam Cleaner 069,Home Appliances,Cleaning,LG,1631.09,2343.62
+P0070,Apple Sofa 070,Home & Living,Furniture,Apple,2149.49,2511.64
+P0071,Generic Pasta 071,Grocery,Pantry,Generic,253.8,294.77
+P0072,Adidas Picture Frame 072,Home & Living,Decor,Adidas,2094.0,2793.46
+P0073,Apple Premium Smartphone 073,Electronics,Mobile,Apple,1656.7,2437.95
+P0074,Philips Men's Shirt 074,Fashion,Men,Philips,2865.5,4246.82
+P0075,Nike Air Fryer 075,Home Appliances,Kitchen,Nike,1270.41,1602.6
+P0076,Sony Running Shoes 076,Sports,Sportswear,Sony,378.09,492.97
+P0077,Samsung Blender 077,Home Appliances,Kitchen,Samsung,2569.27,3768.21
+P0078,Nestle Conditioner 078,Beauty,Haircare,Nestle,1485.02,2024.17
+P0079,Philips Budget Smartphone 079,Electronics,Mobile,Philips,163.22,257.42
+P0080,Apple Wireless Charger 080,Electronics,Accessories,Apple,1136.35,1626.84
+P0081,P&G Smartphone 081,Electronics,Mobile,P&G,2058.21,2937.34
+P0082,Adidas Training Shoes 082,Sports,Sportswear,Adidas,99.0,139.95
+P0083,P&G Sofa 083,Home & Living,Furniture,P&G,1176.75,1693.91
+P0084,Sony Budget Smartphone 084,Electronics,Mobile,Sony,2825.57,3740.34
+P0085,P&G 5G Smartphone 085,Electronics,Mobile,P&G,635.92,809.71
+P0086,Apple Shampoo 086,Beauty,Haircare,Apple,301.44,439.3
+P0087,Nestle Energy Drink 087,Grocery,Beverages,Nestle,1168.48,1702.16
+P0088,Sony Laptop 088,Electronics,Laptop,Sony,1498.19,2190.06
+P0089,IKEA Potato Chips 089,Grocery,Snacks,IKEA,136.78,183.02
+P0090,Nestle Phone Case 090,Electronics,Accessories,Nestle,2256.83,3414.75
+P0091,Sony Energy Drink 091,Grocery,Beverages,Sony,400.52,505.66
+P0092,Generic Air Fryer 092,Home Appliances,Kitchen,Generic,2045.94,3034.05
+P0093,L'Oreal Bluetooth Speaker 093,Electronics,Audio,L'Oreal,2709.61,3732.12
+P0094,L'Oreal Training Shoes 094,Sports,Sportswear,L'Oreal,906.95,1083.8
+P0095,Generic Phone Case 095,Electronics,Accessories,Generic,2718.04,3237.4
+P0096,Generic Fan 096,Home Appliances,Cooling,Generic,2036.77,2784.54
+P0097,Philips Camping Tent 097,Sports,Outdoor,Philips,893.77,1160.02
+P0098,LG Table Lamp 098,Home & Living,Decor,LG,2378.91,3581.04
+P0099,Philips Eau de Toilette 099,Beauty,Fragrance,Philips,2923.26,4671.86
+P0100,Sony Coffee Maker 100,Home Appliances,Kitchen,Sony,1646.83,2416.93
+P0101,Generic Camping Tent 101,Sports,Outdoor,Generic,2289.3,3269.57
+P0102,Adidas Steam Cleaner 102,Home Appliances,Cleaning,Adidas,2108.89,2494.28
+P0103,IKEA Chocolate 103,Grocery,Snacks,IKEA,456.88,630.95
+P0104,Sony Vacuum Cleaner 104,Home Appliances,Cleaning,Sony,1124.51,1704.49
+P0105,L'Oreal Air Conditioner 105,Home Appliances,Cooling,L'Oreal,2265.07,2988.34
+P0106,Generic Pasta 106,Grocery,Pantry,Generic,2121.15,2676.73
+P0107,Adidas Pasta 107,Grocery,Pantry,Adidas,1488.02,1718.83
+P0108,Generic Sofa 108,Home & Living,Furniture,Generic,370.23,533.93
+P0109,Sony Smartphone 109,Electronics,Mobile,Sony,727.77,968.01
+P0110,L'Oreal Energy Drink 110,Grocery,Beverages,L'Oreal,1594.54,2146.81
+P0111,Philips Conditioner 111,Beauty,Haircare,Philips,2775.44,4339.68
+P0112,Sony USB Cable 112,Electronics,Accessories,Sony,2908.52,4029.45
+P0113,Samsung Women's Jeans 113,Fashion,Women,Samsung,897.59,1434.46
+P0114,Nike Blanket 114,Home & Living,Bedding,Nike,2705.45,3166.6
+P0115,Nestle Conditioner 115,Beauty,Haircare,Nestle,1377.86,1969.04
+P0116,Nestle Men's T-Shirt 116,Fashion,Men,Nestle,1947.61,2580.04
+P0117,Generic Nuts 117,Grocery,Snacks,Generic,1093.83,1385.86
+P0118,Samsung Bed Sheet Set 118,Home & Living,Bedding,Samsung,942.39,1428.86
+P0119,Sony Running Shoes 119,Sports,Sportswear,Sony,2822.78,3775.43
+P0120,L'Oreal Blender 120,Home Appliances,Kitchen,L'Oreal,266.59,411.75
+P0121,Philips Body Mist 121,Beauty,Fragrance,Philips,1245.54,1868.21
+P0122,Samsung Biscuits 122,Grocery,Snacks,Samsung,1790.51,2365.98
+P0123,IKEA Blanket 123,Home & Living,Bedding,IKEA,1715.86,2022.28
+P0124,Sony Women's Jacket 124,Fashion,Women,Sony,834.75,981.14
+P0125,Generic Vacuum Cleaner 125,Home Appliances,Cleaning,Generic,1612.35,2398.31
+P0126,Philips Earbuds 126,Electronics,Audio,Philips,2311.58,3641.07
+P0127,Sony Kids T-Shirt 127,Fashion,Kids,Sony,738.43,917.33
+P0128,Sony Smartphone 128,Electronics,Mobile,Sony,1826.4,2288.28
+P0129,P&G Energy Drink 129,Grocery,Beverages,P&G,159.75,203.03
+P0130,Nestle Fan 130,Home Appliances,Cooling,Nestle,1570.52,2351.92
+P0131,Generic Potato Chips 131,Grocery,Snacks,Generic,1664.68,2334.58
+P0132,Adidas Soft Drink 132,Grocery,Beverages,Adidas,2358.31,3390.57
+P0133,Sony Cleanser 133,Beauty,Skincare,Sony,426.39,493.14
+P0134,Apple Steam Cleaner 134,Home Appliances,Cleaning,Apple,1917.2,2683.44
+P0135,Apple Cereal 135,Grocery,Pantry,Apple,1651.39,2234.18
+P0136,Generic Hiking Backpack 136,Sports,Outdoor,Generic,1873.82,2882.05
+P0137,LG Blender 137,Home Appliances,Kitchen,LG,2781.23,3814.32
+P0138,P&G Office Chair 138,Home & Living,Furniture,P&G,2940.5,4033.42
+P0139,IKEA Body Mist 139,Beauty,Fragrance,IKEA,735.63,871.09
+P0140,IKEA Training Shoes 140,Sports,Sportswear,IKEA,2099.05,2583.99
+P0141,P&G Phone Case 141,Electronics,Accessories,P&G,2692.43,3670.54
+P0142,Nestle Biscuits 142,Grocery,Snacks,Nestle,141.79,173.84
+P0143,Nike Kids T-Shirt 143,Fashion,Kids,Nike,1655.17,2301.5
+P0144,Nestle Conditioner 144,Beauty,Haircare,Nestle,1105.52,1521.79
+P0145,IKEA Perfume 145,Beauty,Fragrance,IKEA,295.03,403.16
+P0146,P&G Pillow 146,Home & Living,Bedding,P&G,487.79,643.77
+P0147,Nestle Energy Drink 147,Grocery,Beverages,Nestle,2422.48,3601.54
+P0148,P&G Coffee Table 148,Home & Living,Furniture,P&G,723.63,1079.64
+P0149,P&G Dumbbell Set 149,Sports,Fitness,P&G,2247.46,2621.68
+P0150,Adidas Cooking Oil 150,Grocery,Pantry,Adidas,2687.72,3709.74
+P0151,Generic Camping Tent 151,Sports,Outdoor,Generic,2604.3,3409.98
+P0152,L'Oreal Cooking Oil 152,Grocery,Pantry,L'Oreal,1144.31,1326.29
+P0153,Adidas Juice 153,Grocery,Beverages,Adidas,995.94,1199.01
+P0154,LG Mineral Water 154,Grocery,Beverages,LG,2043.72,3076.06
+P0155,Apple Body Mist 155,Beauty,Fragrance,Apple,1760.91,2608.91
+P0156,P&G Camping Tent 156,Sports,Outdoor,P&G,1702.09,2247.52
+P0157,Nike Microwave 157,Home Appliances,Kitchen,Nike,1944.83,2736.08
+P0158,Nike Perfume 158,Beauty,Fragrance,Nike,2802.4,3232.26
+P0159,Nike Wall Clock 159,Home & Living,Decor,Nike,752.95,920.34
+P0160,P&G Cleanser 160,Beauty,Skincare,P&G,2530.1,2968.4
+P0161,Philips Men's T-Shirt 161,Fashion,Men,Philips,2991.82,4647.72
+P0162,Generic Bookshelf 162,Home & Living,Furniture,Generic,2599.21,3944.78
+P0163,P&G Juice 163,Grocery,Beverages,P&G,2012.56,3156.14
+P0164,IKEA Hiking Backpack 164,Sports,Outdoor,IKEA,854.34,1278.32
+P0165,Nestle Steam Cleaner 165,Home Appliances,Cleaning,Nestle,2138.64,2651.44
+P0166,Samsung Sofa 166,Home & Living,Furniture,Samsung,362.21,516.07
+P0167,Philips Steam Cleaner 167,Home Appliances,Cleaning,Philips,480.0,655.93
+P0168,Sony Face Cream 168,Beauty,Skincare,Sony,1120.31,1517.37
+P0169,Adidas Blender 169,Home Appliances,Kitchen,Adidas,2970.08,3846.43
+P0170,LG Laptop 170,Electronics,Laptop,LG,433.7,499.28
+P0171,IKEA Women's Jacket 171,Fashion,Women,IKEA,1425.3,1903.24
+P0172,Philips Juice 172,Grocery,Beverages,Philips,2243.0,2991.79
+P0173,P&G Picture Frame 173,Home & Living,Decor,P&G,2816.25,3468.37
+P0174,Samsung Soundbar 174,Electronics,Audio,Samsung,2170.36,2542.89
+P0175,IKEA Men's Shirt 175,Fashion,Men,IKEA,2256.5,3406.84
+P0176,Philips Wireless Headphones 176,Electronics,Audio,Philips,2447.43,3547.16
+P0177,L'Oreal Phone Case 177,Electronics,Accessories,L'Oreal,1773.15,2584.09
+P0178,Adidas Men's T-Shirt 178,Fashion,Men,Adidas,1143.29,1552.82
+P0179,Samsung Robot Vacuum 179,Home Appliances,Cleaning,Samsung,1327.46,1871.54
+P0180,Samsung Soft Drink 180,Grocery,Beverages,Samsung,1164.0,1623.31
+P0181,P&G Men's Jacket 181,Fashion,Men,P&G,1637.69,2201.36
+P0182,Adidas Earbuds 182,Electronics,Audio,Adidas,1018.02,1234.52
+P0183,Samsung Hiking Backpack 183,Sports,Outdoor,Samsung,2683.8,4038.77
+P0184,L'Oreal Vacuum Cleaner 184,Home Appliances,Cleaning,L'Oreal,2126.8,3190.96
+P0185,LG 5G Smartphone 185,Electronics,Mobile,LG,2147.91,2947.56
+P0186,Samsung Kids Jeans 186,Fashion,Kids,Samsung,2467.35,2960.29
+P0187,P&G Wireless Charger 187,Electronics,Accessories,P&G,1203.92,1816.45
+P0188,LG Microwave 188,Home Appliances,Kitchen,LG,2320.21,2680.98
+P0189,Sony Cereal 189,Grocery,Pantry,Sony,1637.32,2068.44
+P0190,LG Coffee Maker 190,Home Appliances,Kitchen,LG,2878.04,3753.36
+P0191,P&G Robot Vacuum 191,Home Appliances,Cleaning,P&G,1396.78,2201.71
+P0192,Nestle Shampoo 192,Beauty,Haircare,Nestle,434.57,519.47
+P0193,P&G Premium Smartphone 193,Electronics,Mobile,P&G,1787.03,2137.28
+P0194,LG Running Shoes 194,Sports,Sportswear,LG,2769.05,4065.68
+P0195,Samsung Kids Shoes 195,Fashion,Kids,Samsung,1135.82,1341.42
+P0196,P&G Rice 196,Grocery,Pantry,P&G,2778.19,3758.55
+P0197,Philips Yoga Mat 197,Sports,Fitness,Philips,513.25,633.27
+P0198,Nike Budget Smartphone 198,Electronics,Mobile,Nike,697.64,993.13
+P0199,L'Oreal Camping Tent 199,Sports,Outdoor,L'Oreal,1018.89,1539.83
+P0200,Nestle Table Lamp 200,Home & Living,Decor,Nestle,360.52,481.84
+P0201,Nike Moisturizer 201,Beauty,Skincare,Nike,1407.79,1923.57
+P0202,IKEA Soft Drink 202,Grocery,Beverages,IKEA,1368.27,1660.24
+P0203,LG Fan 203,Home Appliances,Cooling,LG,120.96,156.06
+P0204,Nike Moisturizer 204,Beauty,Skincare,Nike,59.02,85.5
+P0205,Samsung Air Conditioner 205,Home Appliances,Cooling,Samsung,463.01,618.85
+P0206,Samsung Men's Jacket 206,Fashion,Men,Samsung,1794.25,2117.55
+P0207,IKEA Cereal 207,Grocery,Pantry,IKEA,2696.2,3349.52
+P0208,P&G Soft Drink 208,Grocery,Beverages,P&G,215.81,323.5
+P0209,Apple Hiking Backpack 209,Sports,Outdoor,Apple,1612.68,2203.71
+P0210,Sony Robot Vacuum 210,Home Appliances,Cleaning,Sony,326.88,425.1
+P0211,Sony Fan 211,Home Appliances,Cooling,Sony,826.82,1190.46
+P0212,Adidas Budget Smartphone 212,Electronics,Mobile,Adidas,485.33,714.5
+P0213,Samsung Men's Shirt 213,Fashion,Men,Samsung,681.48,854.56
+P0214,Nike Men's Shirt 214,Fashion,Men,Nike,2403.75,2957.44
+P0215,Generic Budget Smartphone 215,Electronics,Mobile,Generic,2168.02,3278.9
+P0216,P&G Dumbbell Set 216,Sports,Fitness,P&G,2494.06,3313.94
+P0217,Nike Air Fryer 217,Home Appliances,Kitchen,Nike,1231.05,1595.19
+P0218,Adidas Chocolate 218,Grocery,Snacks,Adidas,274.82,341.75
+P0219,Sony Cereal 219,Grocery,Pantry,Sony,1935.92,2839.56
+P0220,Philips Premium Smartphone 220,Electronics,Mobile,Philips,1020.88,1553.06
+P0221,Adidas Earbuds 221,Electronics,Audio,Adidas,818.83,1171.64
+P0222,L'Oreal Steam Cleaner 222,Home Appliances,Cleaning,L'Oreal,2585.98,3229.32
+P0223,Generic Comforter 223,Home & Living,Bedding,Generic,360.43,506.26
+P0224,Adidas Treadmill 224,Sports,Fitness,Adidas,562.68,769.83
+P0225,L'Oreal Energy Drink 225,Grocery,Beverages,L'Oreal,2102.56,2798.82
+P0226,Nike Women's Jeans 226,Fashion,Women,Nike,2508.09,3995.34
+P0227,Apple Body Mist 227,Beauty,Fragrance,Apple,2055.89,3125.29
+P0228,Nestle Cushion 228,Home & Living,Decor,Nestle,1504.31,1775.43
+P0229,L'Oreal Blender 229,Home Appliances,Kitchen,L'Oreal,2492.63,3098.06
+P0230,Nike Kids T-Shirt 230,Fashion,Kids,Nike,805.78,1023.28
+P0231,Apple Men's T-Shirt 231,Fashion,Men,Apple,1906.63,2616.7
+P0232,Samsung Kids Jeans 232,Fashion,Kids,Samsung,1225.06,1833.8
+P0233,Apple Treadmill 233,Sports,Fitness,Apple,2876.71,3546.89
+P0234,LG Picture Frame 234,Home & Living,Decor,LG,751.14,995.4
+P0235,IKEA Men's T-Shirt 235,Fashion,Men,IKEA,2748.23,4052.79
+P0236,Sony Men's Jeans 236,Fashion,Men,Sony,1438.63,2084.07
+P0237,Nike Bed Sheet Set 237,Home & Living,Bedding,Nike,1461.59,1858.35
+P0238,LG Camping Chair 238,Sports,Outdoor,LG,1793.33,2103.83
+P0239,IKEA Eau de Toilette 239,Beauty,Fragrance,IKEA,1877.53,2559.84
+P0240,L'Oreal Women's T-Shirt 240,Fashion,Women,L'Oreal,2190.0,3006.81
+P0241,P&G Moisturizer 241,Beauty,Skincare,P&G,1389.85,1645.82
+P0242,Philips Nuts 242,Grocery,Snacks,Philips,2090.2,2659.71
+P0243,Generic Gaming Laptop 243,Electronics,Laptop,Generic,957.5,1449.03
+P0244,Samsung Juice 244,Grocery,Beverages,Samsung,2077.87,2876.99
+P0245,P&G Hair Mask 245,Beauty,Haircare,P&G,2202.03,3331.57
+P0246,Nike Microwave 246,Home Appliances,Kitchen,Nike,2550.6,3219.75
+P0247,IKEA Conditioner 247,Beauty,Haircare,IKEA,173.76,252.21
+P0248,Adidas Kids T-Shirt 248,Fashion,Kids,Adidas,558.11,784.47
+P0249,Philips Air Cooler 249,Home Appliances,Cooling,Philips,906.1,1418.93
+P0250,IKEA Biscuits 250,Grocery,Snacks,IKEA,2390.12,3550.0
+P0251,Adidas Bookshelf 251,Home & Living,Furniture,Adidas,970.92,1478.72
+P0252,P&G Soft Drink 252,Grocery,Beverages,P&G,1690.82,2310.47
+P0253,Philips Earbuds 253,Electronics,Audio,Philips,1032.83,1524.61
+P0254,Adidas Hair Mask 254,Beauty,Haircare,Adidas,2415.85,3363.54
+P0255,L'Oreal Bed Sheet Set 255,Home & Living,Bedding,L'Oreal,1885.16,2919.53
+P0256,Generic Kids Jeans 256,Fashion,Kids,Generic,1264.17,1716.58
+P0257,IKEA Gaming Laptop 257,Electronics,Laptop,IKEA,572.71,757.57
+P0258,IKEA Earbuds 258,Electronics,Audio,IKEA,48.27,56.65
+P0259,Philips Energy Drink 259,Grocery,Beverages,Philips,1889.97,2916.52
+P0260,L'Oreal Hiking Backpack 260,Sports,Outdoor,L'Oreal,293.26,381.64
+P0261,Philips Office Chair 261,Home & Living,Furniture,Philips,731.56,877.66
+P0262,P&G Dumbbell Set 262,Sports,Fitness,P&G,2561.41,3770.39
+P0263,L'Oreal Microwave 263,Home Appliances,Kitchen,L'Oreal,73.26,116.81
+P0264,Samsung Women's Dress 264,Fashion,Women,Samsung,2045.35,2553.04
+P0265,Philips Coffee Maker 265,Home Appliances,Kitchen,Philips,1773.89,2824.12
+P0266,P&G Exercise Bike 266,Sports,Fitness,P&G,2713.1,4327.76
+P0267,LG Air Cooler 267,Home Appliances,Cooling,LG,1216.71,1857.94
+P0268,Philips Blanket 268,Home & Living,Bedding,Philips,1547.81,1940.65
+P0269,L'Oreal Business Laptop 269,Electronics,Laptop,L'Oreal,129.46,204.65
+P0270,Philips Vacuum Cleaner 270,Home Appliances,Cleaning,Philips,1896.74,2365.89
+P0271,Sony Women's T-Shirt 271,Fashion,Women,Sony,2984.83,3666.13
+P0272,Sony Kids Jeans 272,Fashion,Kids,Sony,1483.74,2371.54
+P0273,Sony Bluetooth Speaker 273,Electronics,Audio,Sony,1876.35,2789.27
+P0274,LG Women's Jeans 274,Fashion,Women,LG,2583.18,3502.39
+P0275,IKEA Soundbar 275,Electronics,Audio,IKEA,1440.5,1685.34
+P0276,Generic Business Laptop 276,Electronics,Laptop,Generic,2432.36,3514.42
+P0277,IKEA Coffee Maker 277,Home Appliances,Kitchen,IKEA,858.55,1084.94
+P0278,P&G Robot Vacuum 278,Home Appliances,Cleaning,P&G,2175.79,2987.67
+P0279,Philips Vacuum Cleaner 279,Home Appliances,Cleaning,Philips,2685.55,4286.58
+P0280,P&G Potato Chips 280,Grocery,Snacks,P&G,1452.15,2057.09
+P0281,P&G Soundbar 281,Electronics,Audio,P&G,2040.49,2866.03
+P0282,Samsung Eau de Toilette 282,Beauty,Fragrance,Samsung,1573.36,2424.03
+P0283,IKEA Budget Smartphone 283,Electronics,Mobile,IKEA,497.99,647.54
+P0284,L'Oreal Perfume 284,Beauty,Fragrance,L'Oreal,2046.82,2923.63
+P0285,Generic Robot Vacuum 285,Home Appliances,Cleaning,Generic,2647.28,4189.56
+P0286,Adidas Pasta 286,Grocery,Pantry,Adidas,404.03,525.56
+P0287,Apple Fan 287,Home Appliances,Cooling,Apple,2499.76,3445.57
+P0288,Apple Air Conditioner 288,Home Appliances,Cooling,Apple,1858.44,2957.77
+P0289,P&G Soft Drink 289,Grocery,Beverages,P&G,1142.55,1318.6
+P0290,Sony Eau de Toilette 290,Beauty,Fragrance,Sony,864.36,1001.18
+P0291,Apple Women's Jacket 291,Fashion,Women,Apple,1188.61,1462.91
+P0292,Nike Microwave 292,Home Appliances,Kitchen,Nike,537.79,805.01
+P0293,IKEA Wireless Charger 293,Electronics,Accessories,IKEA,2130.35,2514.47
+P0294,Nike Kids T-Shirt 294,Fashion,Kids,Nike,192.6,227.96
+P0295,Apple Chocolate 295,Grocery,Snacks,Apple,2921.0,4632.69
+P0296,IKEA USB Cable 296,Electronics,Accessories,IKEA,1791.3,2369.22
+P0297,Samsung Moisturizer 297,Beauty,Skincare,Samsung,1128.06,1712.91
+P0298,Nestle Cleanser 298,Beauty,Skincare,Nestle,1348.79,1717.19
+P0299,Samsung USB Cable 299,Electronics,Accessories,Samsung,1365.13,1670.42
+P0300,LG Sunscreen 300,Beauty,Skincare,LG,265.5,386.63
+P0301,IKEA Blanket 301,Home & Living,Bedding,IKEA,2606.8,4127.75
+P0302,Philips Picture Frame 302,Home & Living,Decor,Philips,2894.27,4318.37
+P0303,Sony Coffee Maker 303,Home Appliances,Kitchen,Sony,1239.82,1924.63
+P0304,Apple Camping Tent 304,Sports,Outdoor,Apple,617.07,950.69
+P0305,Apple Hair Mask 305,Beauty,Haircare,Apple,1425.17,1987.34
+P0306,L'Oreal Yoga Mat 306,Sports,Fitness,L'Oreal,291.67,355.59
+P0307,Apple Treadmill 307,Sports,Fitness,Apple,73.23,110.47
+P0308,Philips Conditioner 308,Beauty,Haircare,Philips,1857.62,2802.11
+P0309,Adidas Yoga Mat 309,Sports,Fitness,Adidas,1829.77,2308.06
+P0310,Nike Women's T-Shirt 310,Fashion,Women,Nike,1484.95,1750.6
+P0311,Philips Bed Sheet Set 311,Home & Living,Bedding,Philips,1778.99,2392.67
+P0312,Samsung Perfume 312,Beauty,Fragrance,Samsung,235.89,312.94
+P0313,Nike Treadmill 313,Sports,Fitness,Nike,1977.81,2948.28
+P0314,L'Oreal Robot Vacuum 314,Home Appliances,Cleaning,L'Oreal,1451.91,1738.25
+P0315,Generic Mineral Water 315,Grocery,Beverages,Generic,1721.3,1993.72
+P0316,Nike Comforter 316,Home & Living,Bedding,Nike,2113.35,2962.58
+P0317,Generic Potato Chips 317,Grocery,Snacks,Generic,1562.78,1858.99
+P0318,Samsung Perfume 318,Beauty,Fragrance,Samsung,254.16,337.68
+P0319,Nike Gaming Laptop 319,Electronics,Laptop,Nike,618.56,904.3
+P0320,Apple Hiking Backpack 320,Sports,Outdoor,Apple,519.1,621.39
+P0321,Sony Cleanser 321,Beauty,Skincare,Sony,114.13,179.33
+P0322,L'Oreal Fan 322,Home Appliances,Cooling,L'Oreal,2806.9,4424.54
+P0323,IKEA Bookshelf 323,Home & Living,Furniture,IKEA,258.74,401.74
+P0324,Nike Power Bank 324,Electronics,Accessories,Nike,2355.82,3219.01
+P0325,Generic Women's Jeans 325,Fashion,Women,Generic,1327.05,1958.95
+P0326,Adidas Shampoo 326,Beauty,Haircare,Adidas,1448.25,2066.77
+P0327,Adidas Pasta 327,Grocery,Pantry,Adidas,1023.95,1261.46
+P0328,Adidas Cushion 328,Home & Living,Decor,Adidas,1504.62,2106.34
+P0329,Sony Chocolate 329,Grocery,Snacks,Sony,1010.3,1408.47
+P0330,Generic Bluetooth Speaker 330,Electronics,Audio,Generic,1221.72,1526.24
+P0331,Samsung Blanket 331,Home & Living,Bedding,Samsung,1398.62,2154.89
+P0332,Philips Sofa 332,Home & Living,Furniture,Philips,2211.34,3307.01
+P0333,Samsung Biscuits 333,Grocery,Snacks,Samsung,1744.45,2350.43
+P0334,Apple Cushion 334,Home & Living,Decor,Apple,1826.44,2591.67
+P0335,Nike USB Cable 335,Electronics,Accessories,Nike,844.95,1196.92
+P0336,Generic Blanket 336,Home & Living,Bedding,Generic,1876.44,2691.19
+P0337,Samsung Camping Chair 337,Sports,Outdoor,Samsung,2332.48,3107.77
+P0338,Generic Kids Jeans 338,Fashion,Kids,Generic,2914.76,3589.35
+P0339,Nike Air Fryer 339,Home Appliances,Kitchen,Nike,1322.75,1579.13
+P0340,P&G Camping Chair 340,Sports,Outdoor,P&G,1090.52,1545.08
+P0341,Samsung Robot Vacuum 341,Home Appliances,Cleaning,Samsung,950.2,1263.36
+P0342,Philips Wireless Headphones 342,Electronics,Audio,Philips,989.07,1481.69
+P0343,Adidas USB Cable 343,Electronics,Accessories,Adidas,719.33,1113.28
+P0344,Nestle Bed Sheet Set 344,Home & Living,Bedding,Nestle,1024.27,1559.96
+P0345,Philips Premium Smartphone 345,Electronics,Mobile,Philips,1771.9,2794.04
+P0346,LG Comforter 346,Home & Living,Bedding,LG,129.28,191.51
+P0347,Generic Air Fryer 347,Home Appliances,Kitchen,Generic,2349.74,3448.06
+P0348,Nike Camping Chair 348,Sports,Outdoor,Nike,353.52,449.46
+P0349,L'Oreal Gaming Laptop 349,Electronics,Laptop,L'Oreal,708.77,831.57
+P0350,Adidas Budget Smartphone 350,Electronics,Mobile,Adidas,1367.55,2147.39
+P0351,Samsung Air Fryer 351,Home Appliances,Kitchen,Samsung,1762.32,2572.45
+P0352,Philips Coffee Table 352,Home & Living,Furniture,Philips,2896.05,3336.9
+P0353,L'Oreal Business Laptop 353,Electronics,Laptop,L'Oreal,2919.83,4120.03
+P0354,IKEA Hiking Backpack 354,Sports,Outdoor,IKEA,1041.11,1446.63
+P0355,LG Eau de Toilette 355,Beauty,Fragrance,LG,621.52,903.1
+P0356,Philips Potato Chips 356,Grocery,Snacks,Philips,2197.87,2682.0
+P0357,Philips Robot Vacuum 357,Home Appliances,Cleaning,Philips,547.91,800.87
+P0358,Nestle Moisturizer 358,Beauty,Skincare,Nestle,1501.58,2144.3
+P0359,P&G Men's Shirt 359,Fashion,Men,P&G,110.55,173.44
+P0360,LG Yoga Mat 360,Sports,Fitness,LG,1809.82,2847.56
+P0361,Philips Treadmill 361,Sports,Fitness,Philips,1960.67,2348.82
+P0362,Apple Ultrabook 362,Electronics,Laptop,Apple,163.67,260.19
+P0363,L'Oreal Women's T-Shirt 363,Fashion,Women,L'Oreal,2262.23,2693.68
+P0364,IKEA Women's T-Shirt 364,Fashion,Women,IKEA,1958.52,2926.69
+P0365,Nike USB Cable 365,Electronics,Accessories,Nike,2427.38,3624.15
+P0366,Adidas Women's Jacket 366,Fashion,Women,Adidas,2609.32,3441.83
+P0367,Adidas Bed Sheet Set 367,Home & Living,Bedding,Adidas,998.58,1431.56
+P0368,Philips Air Cooler 368,Home Appliances,Cooling,Philips,1177.9,1592.42
+P0369,Samsung Soft Drink 369,Grocery,Beverages,Samsung,697.26,824.82
+P0370,P&G Bluetooth Speaker 370,Electronics,Audio,P&G,1934.88,2886.27
+P0371,Sony Women's Dress 371,Fashion,Women,Sony,2592.73,3587.27
+P0372,Generic Vacuum Cleaner 372,Home Appliances,Cleaning,Generic,2445.02,2931.61
+P0373,Apple Microwave 373,Home Appliances,Kitchen,Apple,1748.91,2431.2
+P0374,IKEA Camping Chair 374,Sports,Outdoor,IKEA,2442.7,3598.48
+P0375,Philips Cleanser 375,Beauty,Skincare,Philips,1303.97,2025.75
+P0376,Generic Picture Frame 376,Home & Living,Decor,Generic,745.58,1168.45
+P0377,LG Camping Tent 377,Sports,Outdoor,LG,1447.97,1791.94
+P0378,LG Treadmill 378,Sports,Fitness,LG,1578.79,2291.68
+P0379,Generic Camping Chair 379,Sports,Outdoor,Generic,1751.18,2084.49
+P0380,Apple Potato Chips 380,Grocery,Snacks,Apple,2930.64,4455.83
+P0381,Adidas Cleanser 381,Beauty,Skincare,Adidas,2581.06,3897.15
+P0382,P&G Air Conditioner 382,Home Appliances,Cooling,P&G,1710.59,2164.67
+P0383,LG Wireless Charger 383,Electronics,Accessories,LG,279.38,423.84
+P0384,P&G Shampoo 384,Beauty,Haircare,P&G,1906.79,3009.17
+P0385,Nike Bed Sheet Set 385,Home & Living,Bedding,Nike,2654.94,3325.67
+P0386,Nestle Women's T-Shirt 386,Fashion,Women,Nestle,1244.86,1902.07
+P0387,P&G Men's T-Shirt 387,Fashion,Men,P&G,1678.78,2123.72
+P0388,Apple Wireless Charger 388,Electronics,Accessories,Apple,2471.39,3313.35
+P0389,L'Oreal Kids Jeans 389,Fashion,Kids,L'Oreal,2304.64,2805.59
+P0390,Philips Biscuits 390,Grocery,Snacks,Philips,721.0,1111.18
+P0391,Adidas Smartphone 391,Electronics,Mobile,Adidas,305.23,354.26
+P0392,Sony Camping Chair 392,Sports,Outdoor,Sony,1649.16,2068.67
+P0393,L'Oreal Dumbbell Set 393,Sports,Fitness,L'Oreal,442.49,563.53
+P0394,Philips Fan 394,Home Appliances,Cooling,Philips,1224.87,1644.62
+P0395,L'Oreal Air Conditioner 395,Home Appliances,Cooling,L'Oreal,67.15,87.53
+P0396,Sony Treadmill 396,Sports,Fitness,Sony,2178.53,3072.32
+P0397,LG Air Conditioner 397,Home Appliances,Cooling,LG,2684.69,3319.19
+P0398,Samsung Men's Jacket 398,Fashion,Men,Samsung,1043.81,1490.27
+P0399,Samsung Eau de Toilette 399,Beauty,Fragrance,Samsung,2015.42,2381.16
+P0400,P&G Wall Clock 400,Home & Living,Decor,P&G,1786.58,2601.37
+P0401,Nestle Hair Mask 401,Beauty,Haircare,Nestle,587.17,689.07
+P0402,Apple Conditioner 402,Beauty,Haircare,Apple,1682.19,2487.61
+P0403,P&G Coffee Table 403,Home & Living,Furniture,P&G,1695.64,2680.69
+P0404,L'Oreal Body Mist 404,Beauty,Fragrance,L'Oreal,1616.77,1929.62
+P0405,Generic Running Shoes 405,Sports,Sportswear,Generic,916.54,1458.73
+P0406,Adidas Soundbar 406,Electronics,Audio,Adidas,2923.01,3387.8
+P0407,P&G Sofa 407,Home & Living,Furniture,P&G,1629.07,2490.71
+P0408,LG Wall Clock 408,Home & Living,Decor,LG,786.0,1182.58
+P0409,Philips Premium Smartphone 409,Electronics,Mobile,Philips,1530.38,1869.65
+P0410,LG Yoga Mat 410,Sports,Fitness,LG,697.52,909.39
+P0411,Philips Women's Jeans 411,Fashion,Women,Philips,2812.13,3934.76
+P0412,Sony Sunscreen 412,Beauty,Skincare,Sony,853.52,1343.5
+P0413,Adidas Chocolate 413,Grocery,Snacks,Adidas,2759.79,3790.94
+P0414,Generic Bed Sheet Set 414,Home & Living,Bedding,Generic,1185.31,1630.42
+P0415,Nestle Juice 415,Grocery,Beverages,Nestle,2456.0,3245.06
+P0416,Nike Kids Jacket 416,Fashion,Kids,Nike,2374.29,3055.96
+P0417,Philips Women's Jacket 417,Fashion,Women,Philips,537.1,785.63
+P0418,LG Chocolate 418,Grocery,Snacks,LG,1930.1,2933.98
+P0419,Samsung Comforter 419,Home & Living,Bedding,Samsung,1826.99,2215.48
+P0420,Nike Training Shoes 420,Sports,Sportswear,Nike,541.02,744.53
+P0421,Nike Women's Dress 421,Fashion,Women,Nike,2005.59,2416.32
+P0422,Apple Cushion 422,Home & Living,Decor,Apple,422.8,669.46
+P0423,Generic Shampoo 423,Beauty,Haircare,Generic,2810.62,4340.29
+P0424,IKEA Steam Cleaner 424,Home Appliances,Cleaning,IKEA,1815.61,2386.0
+P0425,Philips Cooking Oil 425,Grocery,Pantry,Philips,591.51,736.6
+P0426,Apple Face Cream 426,Beauty,Skincare,Apple,1866.1,2395.72
+P0427,L'Oreal Cooking Oil 427,Grocery,Pantry,L'Oreal,242.4,364.14
+P0428,Sony Exercise Bike 428,Sports,Fitness,Sony,2082.64,2453.42
+P0429,LG USB Cable 429,Electronics,Accessories,LG,702.11,880.93
+P0430,LG Sofa 430,Home & Living,Furniture,LG,1590.58,2134.14
+P0431,LG Coffee Maker 431,Home Appliances,Kitchen,LG,1360.36,1683.55
+P0432,IKEA Fan 432,Home Appliances,Cooling,IKEA,2486.06,3679.68
+P0433,Philips Pillow 433,Home & Living,Bedding,Philips,760.77,920.69
+P0434,Nike Wall Clock 434,Home & Living,Decor,Nike,794.24,1185.11
+P0435,Philips Air Conditioner 435,Home Appliances,Cooling,Philips,984.03,1501.08
+P0436,Philips Perfume 436,Beauty,Fragrance,Philips,2408.58,3809.91
+P0437,Samsung USB Cable 437,Electronics,Accessories,Samsung,812.24,1170.23
+P0438,LG Cushion 438,Home & Living,Decor,LG,312.29,427.75
+P0439,Apple Wireless Charger 439,Electronics,Accessories,Apple,745.56,1076.04
+P0440,L'Oreal Wireless Headphones 440,Electronics,Audio,L'Oreal,1195.54,1622.05
+P0441,Nestle Table Lamp 441,Home & Living,Decor,Nestle,416.77,498.44
+P0442,L'Oreal Women's Dress 442,Fashion,Women,L'Oreal,2430.47,2878.62
+P0443,Nestle 5G Smartphone 443,Electronics,Mobile,Nestle,134.51,209.27
+P0444,Generic Picture Frame 444,Home & Living,Decor,Generic,1496.45,1981.09
+P0445,P&G Bed Sheet Set 445,Home & Living,Bedding,P&G,1849.52,2182.42
+P0446,Sony Perfume 446,Beauty,Fragrance,Sony,2217.55,3061.33
+P0447,P&G Air Fryer 447,Home Appliances,Kitchen,P&G,133.31,198.07
+P0448,Sony Premium Smartphone 448,Electronics,Mobile,Sony,334.0,389.45
+P0449,Philips Sofa 449,Home & Living,Furniture,Philips,1072.69,1376.73
+P0450,LG Cleanser 450,Beauty,Skincare,LG,2828.1,4249.87
+P0451,IKEA Pasta 451,Grocery,Pantry,IKEA,313.22,453.27
+P0452,Nestle Men's Jeans 452,Fashion,Men,Nestle,266.2,367.78
+P0453,P&G Energy Drink 453,Grocery,Beverages,P&G,698.97,1110.8
+P0454,Apple Camping Chair 454,Sports,Outdoor,Apple,381.73,544.64
+P0455,L'Oreal Yoga Mat 455,Sports,Fitness,L'Oreal,2880.28,3932.2
+P0456,Nestle Potato Chips 456,Grocery,Snacks,Nestle,393.2,536.11
+P0457,Nike Laptop 457,Electronics,Laptop,Nike,1755.62,2609.96
+P0458,IKEA Business Laptop 458,Electronics,Laptop,IKEA,1028.04,1611.59
+P0459,L'Oreal Women's T-Shirt 459,Fashion,Women,L'Oreal,1307.59,1762.28
+P0460,Nike Nuts 460,Grocery,Snacks,Nike,737.26,888.16
+P0461,Samsung Cereal 461,Grocery,Pantry,Samsung,2977.4,4323.65
+P0462,Samsung Air Conditioner 462,Home Appliances,Cooling,Samsung,1641.17,2357.1
+P0463,P&G Wall Clock 463,Home & Living,Decor,P&G,2190.9,3285.04
+P0464,IKEA Conditioner 464,Beauty,Haircare,IKEA,2264.5,2878.63
+P0465,Apple Eau de Toilette 465,Beauty,Fragrance,Apple,412.55,609.21
+P0466,Sony Biscuits 466,Grocery,Snacks,Sony,2525.3,3736.84
+P0467,Philips Face Cream 467,Beauty,Skincare,Philips,2235.4,3186.28
+P0468,Sony Blanket 468,Home & Living,Bedding,Sony,2072.88,3198.44
+P0469,L'Oreal Camping Tent 469,Sports,Outdoor,L'Oreal,497.01,674.79
+P0470,P&G Running Shoes 470,Sports,Sportswear,P&G,2230.3,3449.5
+P0471,P&G USB Cable 471,Electronics,Accessories,P&G,1216.45,1836.88
+P0472,L'Oreal Moisturizer 472,Beauty,Skincare,L'Oreal,2232.2,3385.81
+P0473,L'Oreal Ultrabook 473,Electronics,Laptop,L'Oreal,2355.7,3296.57
+P0474,Nestle Pillow 474,Home & Living,Bedding,Nestle,2523.09,3846.97
+P0475,L'Oreal Dumbbell Set 475,Sports,Fitness,L'Oreal,2280.86,3319.27
+P0476,Sony Sports T-Shirt 476,Sports,Sportswear,Sony,930.7,1437.46
+P0477,Nestle Microwave 477,Home Appliances,Kitchen,Nestle,1168.42,1681.96
+P0478,P&G Kids Jeans 478,Fashion,Kids,P&G,1787.27,2370.25
+P0479,Nike Cushion 479,Home & Living,Decor,Nike,551.55,641.5
+P0480,LG Treadmill 480,Sports,Fitness,LG,2386.71,2844.59
+P0481,LG Air Conditioner 481,Home Appliances,Cooling,LG,1934.13,2280.7
+P0482,Nestle Sports T-Shirt 482,Sports,Sportswear,Nestle,2114.77,2482.24
+P0483,Apple Gaming Laptop 483,Electronics,Laptop,Apple,824.07,1253.63
+P0484,Sony Juice 484,Grocery,Beverages,Sony,2092.34,3108.52
+P0485,Philips Robot Vacuum 485,Home Appliances,Cleaning,Philips,2478.89,3431.11
+P0486,LG Eau de Toilette 486,Beauty,Fragrance,LG,998.01,1342.63
+P0487,LG Potato Chips 487,Grocery,Snacks,LG,1802.71,2669.9
+P0488,L'Oreal Sunscreen 488,Beauty,Skincare,L'Oreal,912.34,1120.41
+P0489,LG Robot Vacuum 489,Home Appliances,Cleaning,LG,372.64,497.27
+P0490,Generic Exercise Bike 490,Sports,Fitness,Generic,2225.16,3510.5
+P0491,L'Oreal Microwave 491,Home Appliances,Kitchen,L'Oreal,1099.46,1429.88
+P0492,IKEA Perfume 492,Beauty,Fragrance,IKEA,1765.71,2496.56
+P0493,Samsung Robot Vacuum 493,Home Appliances,Cleaning,Samsung,910.2,1432.02
+P0494,Sony Kids Jeans 494,Fashion,Kids,Sony,692.11,913.32
+P0495,LG Air Fryer 495,Home Appliances,Kitchen,LG,1316.84,2069.82
+P0496,Nike Power Bank 496,Electronics,Accessories,Nike,260.19,384.45
+P0497,Sony Potato Chips 497,Grocery,Snacks,Sony,2345.03,2704.2
+P0498,Nike Women's Jeans 498,Fashion,Women,Nike,1838.47,2226.22
+P0499,P&G Office Chair 499,Home & Living,Furniture,P&G,2870.71,3390.4
+P0500,Nestle Conditioner 500,Beauty,Haircare,Nestle,128.14,163.26

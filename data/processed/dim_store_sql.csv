@@ -1,0 +1,21 @@
+store_id,store_name,city,region,store_type
+S001,GulfMart Taif 01,Taif,Western,Mall
+S002,GulfMart Taif 02,Taif,Western,Hypermarket
+S003,GulfMart Mecca 03,Mecca,Western,Mall
+S004,GulfMart Taif 04,Taif,Western,Standalone
+S005,GulfMart Dammam 05,Dammam,Eastern,Hypermarket
+S006,GulfMart Dammam 06,Dammam,Eastern,Hypermarket
+S007,GulfMart Mecca 07,Mecca,Western,Hypermarket
+S008,GulfMart Medina 08,Medina,Western,Mall
+S009,GulfMart Jeddah 09,Jeddah,Western,Standalone
+S010,GulfMart Medina 10,Medina,Western,Standalone
+S011,GulfMart Khobar 11,Khobar,Eastern,Mall
+S012,GulfMart Riyadh 12,Riyadh,Central,Standalone
+S013,GulfMart Medina 13,Medina,Western,Mall
+S014,GulfMart Khobar 14,Khobar,Eastern,Mall
+S015,GulfMart Riyadh 15,Riyadh,Central,Hypermarket
+S016,GulfMart Dammam 16,Dammam,Eastern,Hypermarket
+S017,GulfMart Jeddah 17,Jeddah,Western,Hypermarket
+S018,GulfMart Medina 18,Medina,Western,Standalone
+S019,GulfMart Taif 19,Taif,Western,Standalone
+S020,GulfMart Dammam 20,Dammam,Eastern,Hypermarket
