@@ -1,0 +1,16 @@
+test,records_tested,failed_records,failure_pct,status,business_rule
+Transaction ID not null,118236,0,0.0,PASS,transaction_id must not be NULL
+Transaction ID unique,118236,0,0.0,PASS,transaction_id must be unique
+Quantity greater than zero,118236,0,0.0,PASS,quantity must be greater than 0
+Unit price valid,118236,0,0.0,PASS,unit_price must be greater than 0
+Discount valid,118236,0,0.0,PASS,discount_amount must be >= 0 and must not exceed gross_sales
+Transaction date valid,118236,0,0.0,PASS,transaction_date must exist and be between 2024-01-01 and 2025-12-31
+Product referential integrity,118236,147,0.12,FAIL,Every product_id must exist in dim_product
+Customer referential integrity,118236,0,0.0,PASS,Every customer_id other than UNKNOWN must exist in dim_customer
+Store referential integrity,118236,0,0.0,PASS,Every store_id other than UNKNOWN must exist in dim_store
+Gross sales calculation,118236,0,0.0,PASS,gross_sales = quantity × unit_price
+Net sales calculation,118236,0,0.0,PASS,net_sales = gross_sales - discount_amount
+Cost calculation,118236,0,0.0,PASS,cost_amount = quantity × unit_cost
+Profit calculation,118236,0,0.0,PASS,profit_amount = net_sales - cost_amount
+Gross margin calculation,118236,0,0.0,PASS,gross_margin_pct = profit / net_sales × 100
+Unknown reference attribution,118236,986,0.83,REVIEW,UNKNOWN reference values should be monitored and investigated with the source system.

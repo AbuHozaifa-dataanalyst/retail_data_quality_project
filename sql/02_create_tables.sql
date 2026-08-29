@@ -1,6 +1,8 @@
 USE RetailDataQuality;
 GO
 
+SELECT * FROM dbo.dim_date;
+
 CREATE TABLE dbo.dim_product
 (
     product_id      VARCHAR(20)      NOT NULL,
@@ -52,6 +54,23 @@ CREATE TABLE dbo.dim_store
 
     CONSTRAINT PK_dim_store
         PRIMARY KEY (store_id)
+);
+GO
+
+
+
+CREATE TABLE dbo.dim_date
+(
+    date_key        INT           NOT NULL PRIMARY KEY,
+    date            DATE          NOT NULL UNIQUE,
+    year            INT           NOT NULL,
+    quarter         INT           NOT NULL,
+    month           INT           NOT NULL,
+    month_name      VARCHAR(20)   NOT NULL,
+    week            INT           NOT NULL,
+    day             INT           NOT NULL,
+    day_of_week     INT           NOT NULL,
+    day_name        VARCHAR(20)   NOT NULL
 );
 GO
 
