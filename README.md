@@ -53,7 +53,7 @@ Business Insights & Recommendations
 
 
 
-🎯 Business Objectives
+# 🎯 Business Objectives
 
 The project aims to answer four major questions:
 
@@ -80,7 +80,7 @@ Store performance
 Product category performance
 Customer performance
 Business opportunities
-🗂️ Project Structure
+# 🗂️ Project Structure
 retail-data-quality-project/
 │
 ├── data/
@@ -114,7 +114,7 @@ retail-data-quality-project/
 │
 ├── README.md
 └── requirements.txt
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 Tool	Purpose
 Python	Data profiling, cleaning, validation, KPI reconciliation
 Pandas	Data manipulation and quality analysis
@@ -128,7 +128,7 @@ Power Query	Data preparation/model loading
 Git	Version control
 GitHub	Portfolio and project documentation
 VS Code	Development environment
-📊 Dataset
+# 📊 Dataset
 
 The project uses a realistic retail sales dataset designed to simulate a multi-store retail environment.
 
@@ -144,7 +144,7 @@ Fact Table
 
 fact_sales contains transaction-level sales information.
 
-Important fields include:
+# Important fields include:
 
 Transaction ID
 Date
@@ -187,7 +187,7 @@ dim_date
 
 Provides the date dimension used for time-based analysis.
 
-🧹 Data Quality Analysis
+# 🧹 Data Quality Analysis
 
 The project intentionally includes realistic data-quality issues to simulate the type of problems analysts encounter in real retail environments.
 
@@ -207,7 +207,7 @@ Invalid dates
 Referential integrity issues
 Unknown customer references
 Unknown product references
-🔍 Data Profiling with Python
+# 🔍 Data Profiling with Python
 
 Python/Pandas was used to profile the raw data before performing transformations.
 
@@ -226,7 +226,7 @@ Business-rule violations
 
 The purpose was to understand the condition of the data before modifying it.
 
-🧼 Data Cleaning
+# 🧼 Data Cleaning
 
 The cleaning process followed a controlled approach rather than modifying the raw data directly.
 
@@ -252,7 +252,7 @@ Standardized where categorical variations represented the same business value
 Recalculated where financial values could be derived reliably
 Quarantined for review when the correct value could not be safely determined
 Assigned to an UNKNOWN dimension member where appropriate to preserve referential integrity
-📝 Data Cleaning Audit
+# 📝 Data Cleaning Audit
 
 A cleaning audit was created to document the cleaning process.
 
@@ -262,7 +262,7 @@ data/cleaned/cleaning_audit.csv
 
 This provides traceability between identified problems and the actions taken.
 
-✅ Data Validation
+# ✅ Data Validation
 
 After cleaning, automated validation tests were performed.
 
@@ -281,7 +281,7 @@ Total	15
 
 The remaining FAIL and REVIEW results were intentionally retained for transparency rather than being hidden.
 
-🔗 Referential Integrity Validation
+# 🔗 Referential Integrity Validation
 
 One important issue identified during the process involved product references.
 
@@ -295,7 +295,7 @@ Instead of arbitrarily deleting valid sales records, the project uses an explici
 
 This preserves the fact data while making the data-quality issue visible.
 
-🏗️ SQL Server Data Model
+# 🏗️ SQL Server Data Model
 
 The cleaned data was loaded into SQL Server using a staging and production approach.
 
@@ -318,7 +318,7 @@ stg_data_validation_results
 
 The production layer contains the main analytical tables.
 
-⭐ Star Schema
+# ⭐ Star Schema
 
 The Power BI / SQL analytical model follows a star-schema design.
 
@@ -341,7 +341,7 @@ dim_store
 
 This structure allows business users to analyze transactions from different perspectives.
 
-📐 Key Retail KPIs
+# 📐 Key Retail KPIs
 
 The project calculates and validates important retail KPIs.
 
@@ -367,7 +367,7 @@ Active Stores
 
 Number of stores with sales activity, excluding the UNKNOWN dimension member.
 
-🔄 Python ↔ SQL KPI Reconciliation
+# 🔄 Python ↔ SQL KPI Reconciliation
 
 Important business KPIs were reconciled between Python and SQL Server to ensure that the cleaned data produced consistent results across analytical tools.
 
@@ -402,14 +402,14 @@ Mismatched Transactions = 0
 
 This provides confidence that the core financial calculations are consistent.
 
-📊 Power BI Dashboard
+# 📊 Power BI Dashboard
 
 The Power BI report currently contains two completed analytical pages.
 
 File:
 
 powerbi/retail_data_quality_analytics.pbix
-Page 1 — Data Quality
+# Page 1 — Data Quality
 
 The first page focuses on data-quality monitoring.
 
@@ -426,7 +426,7 @@ Current Validation Status
 
 The page is designed to show stakeholders whether the dataset is sufficiently trustworthy for downstream reporting.
 
-📈 Page 2 — Retail Business Performance
+# 📈 Page 2 — Retail Business Performance
 
 The second page demonstrates how validated data can be used for actual retail business analysis.
 
@@ -484,7 +484,7 @@ GulfMart Taif 04 as the #1 store by Net Sales and Gross Profit.
 
 It ranked #6 by Gross Margin % and was classified as a Strong Performer based on the sales and margin benchmark framework.
 
-🛍️ Category Performance
+# 🛍️ Category Performance
 
 Product categories were analyzed using:
 
@@ -533,7 +533,7 @@ Recommendation
 
 This ensures that the analysis moves beyond reporting numbers and connects the results to potential business actions.
 
-💼 Example Business Insights
+# 💼 Example Business Insights
 Home Appliances — Primary Profit Driver
 Observation
 
@@ -576,7 +576,7 @@ Cross-selling
 Bundling
 Assortment optimization
 Maintaining pricing discipline
-📁 Documentation
+# 📁 Documentation
 
 Additional project documentation is maintained in the docs/ directory.
 
@@ -600,7 +600,7 @@ business_insights.md
 
 Contains detailed business observations, evidence, impacts, and recommendations.
 
-🔄 Current Project Status
+# 🔄 Current Project Status
 Component	Status
 Raw Dataset Generation	✅ Complete
 Data Profiling	✅ Complete
@@ -690,7 +690,7 @@ Repository organization
 Commit management
 .gitignore
 GitHub portfolio management
-🧠 Business Questions Addressed
+# 🧠 Business Questions Addressed
 
 The project is designed to answer questions such as:
 
@@ -722,7 +722,7 @@ Customer Analytics
 
 Customer-level analysis is the next major stage of the project.
 
-📌 Key Takeaway
+# 📌 Key Takeaway
 
 This project demonstrates an important principle in retail analytics:
 
@@ -746,7 +746,7 @@ Business Decisions
 
 The goal is to demonstrate not only technical analytics skills, but also the ability to connect data quality → retail KPIs → business performance → actionable recommendations.
 
-👤 Portfolio Purpose
+# 👤 Portfolio Purpose
 
 This project was developed as a portfolio project for roles such as:
 
